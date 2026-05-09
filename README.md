@@ -93,12 +93,12 @@ These actions are logged in the **Parsing Steps** table and reflected in the tre
 1. **Requirements:** Python 3 (Tkinter is included in the standard library).
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/LL1-Parser-Panic-Mode.git
-   cd LL1-Parser-Panic-Mode
+   git clone https://github.com/YasinRezvani/LL1_Parser_Panic_Mode.git
+   cd LL1_Parser_Panic_Mode
    ```
 3. **Run the application:**
    ```bash
-   python ll1_parser.py
+   python LL(1) Parser.py
    ```
 4. **Using the GUI:**
    - Select a grammar and an input string from the dropdowns.
@@ -145,7 +145,6 @@ LL1-Parser-Panic-Mode/
 ├── LL(1) Parser.exe
 └── README.md           
 ```
-
 
 
 ## Screenshots
